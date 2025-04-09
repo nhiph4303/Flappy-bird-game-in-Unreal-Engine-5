@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Maps/level.umap",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_FlapWing_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_FlapWing_02.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_FlapWing_03.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_FlapWing_04.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_HitObstacle_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX_Score_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_FlapWing_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_FlapWing_02.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_FlapWing_03.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_FlapWing_04.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_HitObstacle_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/SFX/SFX_Score_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/Character/T_TappyChicken_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/Level/bg.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/Level/T_TappyChicken_UI_01.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/Character/chickenfly.uasset",
+				"C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/FlappyBirdGameInUnrealEngine5/flappygame/Content/Assets/Character/chickendeath.uasset"
+			]
+		}
+	]
+}
